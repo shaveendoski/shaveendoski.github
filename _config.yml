@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Shaveen Doski / Personal Website"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Shaveen Doski"
+description              : &description "Undergraduate student at The George Washington University"
 url                      : https://shaveendoski.github.io/shaveendoski.github/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -31,7 +31,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['Shaveen Doski', 'shaveendoski@gwmail.gwu.edu', 'url', '571-212-5640']
+  allowedFields          : ['Shaveen Doski', 'shaveendoski@gwmail.gwu.edu', 'https://shaveendoski.github.io/shaveendoski.github/', '571-212-5640']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "md5"
+    email                : "shaveendoski@gwmail.gwu.edu"
   generatedFields:
     date:
       type               : "date"
@@ -80,15 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Shaveen Doski"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  bio              : "Undergraduate Student at The George Washington University"
+  location         : "Northern Virignia/Washington D.C."
+  employer         : "Walgreens Pharmacy"
+  email            : "Shaveendoski@gwmail.gwu.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -99,7 +96,7 @@ author:
   github           : "academicpages"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "shaveendoskii"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
