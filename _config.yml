@@ -83,35 +83,14 @@ author:
   name             : "Shaveen Doski"
   avatar           : "profile.png"
   bio              : "Undergraduate Student at The George Washington University"
-  location         : "Northern Virignia/Washington D.C."
+  location         : "Northern Virginia/Washington D.C."
   employer         : "Walgreens Pharmacy"
   email            : "Shaveendoski@gwmail.gwu.edu"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "academicpages"
-  google_plus      :
-  keybase          :
   instagram        : "shaveendoskii"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  linkedin         : "https://www.linkedin.com/in/shaveen-doski-0931091b3"
+  twitter          : "@shaveendoski"
 
 
 # Reading Files
