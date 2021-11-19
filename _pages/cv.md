@@ -19,7 +19,7 @@ Work experience
 * Gap - Sales Associate 
   * Location: Tysons Corner, Virginia 
   * Duties included: Working with customers all day offering our store brand credit card that helps them save money if they shop with us and helps them keep shopping with us. Folding down the clothes and putting our go backs back where they belong on the sales floor. Assisting the customers with whatever they may need like a certain size or item. Responsible for interacting with employees and customers to create a positive, friendly environment. Maximizing the sales by ensuring a neat, clean and organized store while also working the cashier. Responsible for putting the product back on the sales shelves at the end of a shift. Replenishment and recovery tasks to maintain a visually appealing, easy shopping experience. Organized, good with money, outstanding people skills, leadership abilities, helping other employees when they have difficulty performing certain tasks, politeness, quick learner, team-oriented, time-management, etc. 
-  *  * Supervisor: Karuna Chunchu
+  *  Supervisor: Karuna Chunchu
   *  Dec. 2019 - Apr. 2021
 
 * Walgreens - Certified Pharmacy Technician 
