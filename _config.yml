@@ -86,7 +86,7 @@ author:
   location         : "Northern Virginia/Washington D.C."
   employer         : "Walgreens Pharmacy"
   email            : "Shaveendoski@gwmail.gwu.edu"
-  github           : "academicpages"
+  github           : "https://shaveendoski.github.io/shaveendoski.github//"
   instagram        : "shaveendoskii"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   linkedin         : "https://www.linkedin.com/in/shaveen-doski-0931091b3"
@@ -185,42 +185,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _publications
-  - scope:
-      path: ""
-      type: publications
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
-
+ 
 # Sass/SCSS
 sass:
   sass_dir: _sass
