@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Shaveen Doski / Personal Website"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -31,7 +31,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
+  allowedFields          : ['Shaveen Doski', 'shaveendoski@gwmail.gwu.edu', 'url', '571-212-5640']
   branch                 : "gh-pages" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
